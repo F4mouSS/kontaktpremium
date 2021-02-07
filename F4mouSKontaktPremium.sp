@@ -10,8 +10,8 @@ public Plugin:myinfo =
 	name = "CS-4Frags.pl Kontakt i Opis Premium",
 	author = "F4mouS",
 	description = "Kontakt i Opis Premium",
-	version = "1.0",
-	url = "https://forum.cs-4frags.pl/"
+	version = "1.0", //Wersja podstawowa bez configów, tłumaczeń...
+	url = "https://forum.cs-4frags.pl/" 
 };
 
 public OnPluginStart()
