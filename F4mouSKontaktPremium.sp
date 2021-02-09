@@ -77,7 +77,7 @@ public Action:wlasciciel(client, args)
         PrintToChat(client, " \x07 __________________________________________________");
         PrintToChat(client, "\x02★\x01GeForce \x02»https://steamcommunity.com/id/geforcekamil/");
         PrintToChat(client, " \x07 __________________________________________________");
-        PrintToChat(client, "\x02★\x01DevilGuardian \x02»https://steamcommunity.com/id/??????????");
+        PrintToChat(client, "\x02★\x01DevilGuardian \x02»https://steamcommunity.com/id/Ferrarilp/");
         PrintToChat(client, " \x07 __________________________________________________");
         return Plugin_Handled;
 }
